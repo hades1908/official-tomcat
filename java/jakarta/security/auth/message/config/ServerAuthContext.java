@@ -17,6 +17,6 @@
 package jakarta.security.auth.message.config;
 
 import jakarta.security.auth.message.ServerAuth;
-
+import jakarta.security.auth.message.ServerAuth;
 public interface ServerAuthContext extends ServerAuth {
 }
