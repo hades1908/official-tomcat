@@ -23,7 +23,7 @@ request.setAttribute("tomcatDocUrl", "/docs/");
 request.setAttribute("tomcatExamplesUrl", "/examples/");
 %>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="">
     <head>
         <meta charset="UTF-8" />
         <title><%=request.getServletContext().getServerInfo() %></title>
